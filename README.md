@@ -158,29 +158,29 @@ Mac地址  54:EE:75:A9:5B:D2
 ----
 
 # Working 
-![屏幕快照 2018-04-16 下午9.05.24](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.05.24.png)
+![2018041601](http://ovefvi4g3.bkt.clouddn.com/2018041601.png)
 
-![屏幕快照 2018-04-16 下午9.05.40](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.05.40.png)
+![2018041602](http://ovefvi4g3.bkt.clouddn.com/2018041602.png)
 
-![屏幕快照 2018-04-16 下午9.06.14](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.06.14.png)
+![2018041603](http://ovefvi4g3.bkt.clouddn.com/2018041603.png)
 
-![屏幕快照 2018-04-16 下午9.06.24](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.06.24.png)
+![2018041604](http://ovefvi4g3.bkt.clouddn.com/2018041604.png)
 
-![屏幕快照 2018-04-16 下午9.06.50](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.06.50.png)
+![2018041605](http://ovefvi4g3.bkt.clouddn.com/2018041605.png)
 
-![屏幕快照 2018-04-16 下午9.07.14](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.07.14.png)
+![2018041606](http://ovefvi4g3.bkt.clouddn.com/2018041606.png)
 
-![屏幕快照 2018-04-16 下午9.07.25](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.07.25.png)
+![2018041607](http://ovefvi4g3.bkt.clouddn.com/2018041607.png)
 
-![屏幕快照 2018-04-16 下午9.07.44](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.07.44.png)
+![2018041608](http://ovefvi4g3.bkt.clouddn.com/2018041608.png)
 
-![屏幕快照 2018-04-16 下午9.07.53](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.07.53.png)
+![2018041609](http://ovefvi4g3.bkt.clouddn.com/2018041609.png)
 
-![屏幕快照 2018-04-16 下午9.08.12](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.08.12.png)
+![2018041610](http://ovefvi4g3.bkt.clouddn.com/2018041610.png)
 
-![屏幕快照 2018-04-16 下午9.09.13](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.09.13.png)
+![2018041611](http://ovefvi4g3.bkt.clouddn.com/2018041611.png)
 
-![屏幕快照 2018-04-16 下午9.10.05](http://ovefvi4g3.bkt.clouddn.com/屏幕快照 2018-04-16 下午9.10.05.png)
+![2018041612](http://ovefvi4g3.bkt.clouddn.com/2018041612.png)
 
 # EFI Boot Loader
 You can download the EFI Boot Loader by click [here]()
