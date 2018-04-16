@@ -183,6 +183,6 @@ Mac地址  54:EE:75:A9:5B:D2
 ![2018041612](http://ovefvi4g3.bkt.clouddn.com/2018041612.png)
 
 # EFI Boot Loader
-You can download the EFI Boot Loader by click [here]()
+You can download the EFI Boot Loader by click [here](https://github.com/athlonreg/Lenovo-XiaoXin700-15ISK/releases)
 
 
