@@ -1,0 +1,125 @@
+7:165  0:128  Found UEFI Acpi 2.0 RSDP at 9D2FD014
+7:165  0:000  Saving ACPI tables from RSDP 9D2FD014 to EFI\CLOVER\ACPI\origin ...
+7:165  0:000   9D2FD014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:165  0:000    (Xsdt: 9D2BE188, Rsdt: 9D2BE0C4)
+7:165  0:000    9D2BE188: 'XSDT', 'CB-01', Rev: 1, Len: 308
+7:165  0:000    9D2BE0C4: 'RSDT', 'CB-01', Rev: 1, Len: 172
+7:165  0:000    Tables in Xsdt: 34
+7:165  0:000    0. 9D2F2000: 'FACP', 'CB-01', Rev: 5, Len: 244
+7:165  0:000        (Dsdt: 9D2C9000, Facs: 9D266000, XDsdt: 9D2C9000, XFacs: 0)
+7:165  0:000        9D2C9000: 'DSDT', 'SKL', Rev: 2, Len: 144200
+7:167  0:002        9D266000: 'FACS', Ver: 2, Len: 64
+7:167  0:000    1. 9D2FB000: 'TCPA', 'CB-01', Rev: 2, Len: 50
+7:167  0:000    2. 9D2FA000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1232
+7:167  0:000    3. 9D2F9000: 'SSDT', 'MeSsdt', Rev: 2, Len: 75
+7:167  0:000    4. 9D2F8000: 'TPM2', 'CB-01', Rev: 3, Len: 52
+7:167  0:000    5. 9D27C000: 'UEFI', 'CB-01', Rev: 1, Len: 66
+7:167  0:000    6. 9D2F4000: 'SSDT', 'SaSsdt', Rev: 2, Len: 14514
+7:167  0:000    7. 9D2F3000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+7:167  0:000    8. 9D2F1000: 'HPET', 'CB-01', Rev: 1, Len: 56
+7:167  0:000    9. 9D2F0000: 'LPIT', 'CB-01', Rev: 1, Len: 148
+7:167  0:000    10. 9D2EF000: 'APIC', 'CB-01', Rev: 3, Len: 188
+7:167  0:000    11. 9D2EE000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+7:167  0:000    12. 9D2ED000: 'WDAT', 'CB-01', Rev: 1, Len: 308
+7:167  0:000    13. 9D2C8000: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+7:167  0:000    14. 9D2C7000: 'SSDT', 'EInkApp', Rev: 1, Len: 724
+7:167  0:000    15. 9D2C4000: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+7:167  0:000    16. 9D2C3000: 'SSDT', 'Sata0Ide', Rev: 2, Len: 410
+7:167  0:000    17. 9D2C2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 2889
+7:167  0:000    18. 9D2C1000: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+7:167  0:000    19. 9D2C0000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+7:167  0:000    20. 9D2BF000: 'DBG2', 'CB-01', Rev: 0, Len: 84
+7:167  0:000    21. 9D2FC000: 'SSDT', 'xh_rvp10', Rev: 2, Len: 1592
+7:167  0:000    22. 9D2BD000: 'BOOT', 'CB-01', Rev: 1, Len: 40
+7:167  0:000    23. 9D2BC000: 'BATB', 'CB-01', Rev: 1, Len: 70
+7:167  0:000    24. 9D2BB000: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1401
+7:167  0:000    25. 9D2BA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+7:167  0:000    26. 9D2B9000: 'MSDM', 'CB-01', Rev: 3, Len: 85
+7:167  0:000    27. 9D2B8000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+7:167  0:000    28. 9D2B6000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 4301
+7:167  0:000    29. 9D2B5000: 'SSDT', 'SgPeg', Rev: 2, Len: 986
+7:167  0:000    30. 9D2B4000: 'ASF!', 'CB-01', Rev: 32, Len: 165
+7:167  0:000    31. 9D2B3000: 'FPDT', 'CB-01', Rev: 1, Len: 68
+7:167  0:000    32. 9D2B2000: 'BGRT', 'CB-01', Rev: 1, Len: 56
+7:167  0:000    33. 9D242000: 'UEFI', 'CB-01', Rev: 1, Len: 318
+7:167  0:000    Tables in Rsdt: 34
+7:167  0:000    0. 9D2F2000: 'FACP', 'CB-01', Rev: 5, Len: 244
+7:167  0:000        (Dsdt: 9D2C9000, Facs: 9D266000, XDsdt: 9D2C9000, XFacs: 0)
+7:167  0:000        9D2C9000: 'DSDT', 'SKL', Rev: 2, Len: 144200
+7:169  0:002        9D266000: 'FACS', Ver: 2, Len: 64
+7:169  0:000    1. 9D2FB000: 'TCPA', 'CB-01', Rev: 2, Len: 50
+7:169  0:000    2. 9D2FA000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1232
+7:169  0:000    3. 9D2F9000: 'SSDT', 'MeSsdt', Rev: 2, Len: 75
+7:169  0:000    4. 9D2F8000: 'TPM2', 'CB-01', Rev: 3, Len: 52
+7:169  0:000    5. 9D27C000: 'UEFI', 'CB-01', Rev: 1, Len: 66
+7:169  0:000    6. 9D2F4000: 'SSDT', 'SaSsdt', Rev: 2, Len: 14514
+7:169  0:000    7. 9D2F3000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+7:169  0:000    8. 9D2F1000: 'HPET', 'CB-01', Rev: 1, Len: 56
+7:169  0:000    9. 9D2F0000: 'LPIT', 'CB-01', Rev: 1, Len: 148
+7:169  0:000    10. 9D2EF000: 'APIC', 'CB-01', Rev: 3, Len: 188
+7:169  0:000    11. 9D2EE000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+7:169  0:000    12. 9D2ED000: 'WDAT', 'CB-01', Rev: 1, Len: 308
+7:169  0:000    13. 9D2C8000: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+7:169  0:000    14. 9D2C7000: 'SSDT', 'EInkApp', Rev: 1, Len: 724
+7:169  0:000    15. 9D2C4000: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+7:169  0:000    16. 9D2C3000: 'SSDT', 'Sata0Ide', Rev: 2, Len: 410
+7:169  0:000    17. 9D2C2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 2889
+7:169  0:000    18. 9D2C1000: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+7:169  0:000    19. 9D2C0000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+7:169  0:000    20. 9D2BF000: 'DBG2', 'CB-01', Rev: 0, Len: 84
+7:169  0:000    21. 9D2FC000: 'SSDT', 'xh_rvp10', Rev: 2, Len: 1592
+7:169  0:000    22. 9D2BD000: 'BOOT', 'CB-01', Rev: 1, Len: 40
+7:169  0:000    23. 9D2BC000: 'BATB', 'CB-01', Rev: 1, Len: 70
+7:169  0:000    24. 9D2BB000: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1401
+7:169  0:000    25. 9D2BA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+7:169  0:000    26. 9D2B9000: 'MSDM', 'CB-01', Rev: 3, Len: 85
+7:169  0:000    27. 9D2B8000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+7:169  0:000    28. 9D2B6000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 4301
+7:169  0:000    29. 9D2B5000: 'SSDT', 'SgPeg', Rev: 2, Len: 986
+7:169  0:000    30. 9D2B4000: 'ASF!', 'CB-01', Rev: 32, Len: 165
+7:169  0:000    31. 9D2B3000: 'FPDT', 'CB-01', Rev: 1, Len: 68
+7:170  0:000    32. 9D2B2000: 'BGRT', 'CB-01', Rev: 1, Len: 56
+7:170  0:000    33. 9D242000: 'UEFI', 'CB-01', Rev: 1, Len: 318
+7:170  0:000  Found UEFI Acpi 1.0 RSDP at 9D2FD000
+7:170  0:000  Printing ACPI tables from RSDP 9D2FD000 ...
+7:170  0:000   9D2FD000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+7:170  0:000    (Rsdt: 9D2BE000)
+7:170  0:000    9D2BE000: 'RSDT', 'CB-01', Rev: 1, Len: 172
+7:170  0:000    Tables in Rsdt: 34
+7:170  0:000    0. 9D2F2000: 'FACP', 'CB-01', Rev: 5, Len: 244
+7:170  0:000        (Dsdt: 9D2C9000, Facs: 9D266000, XDsdt: 9D2C9000, XFacs: 0)
+7:170  0:000        9D2C9000: 'DSDT', 'SKL', Rev: 2, Len: 144200
+7:172  0:002        9D266000: 'FACS', Ver: 2, Len: 64
+7:172  0:000    1. 9D2FB000: 'TCPA', 'CB-01', Rev: 2, Len: 50
+7:172  0:000    2. 9D2FA000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 1232
+7:172  0:000    3. 9D2F9000: 'SSDT', 'MeSsdt', Rev: 2, Len: 75
+7:172  0:000    4. 9D2F8000: 'TPM2', 'CB-01', Rev: 3, Len: 52
+7:172  0:000    5. 9D27C000: 'UEFI', 'CB-01', Rev: 1, Len: 66
+7:172  0:000    6. 9D2F4000: 'SSDT', 'SaSsdt', Rev: 2, Len: 14514
+7:172  0:000    7. 9D2F3000: 'SSDT', 'PerfTune', Rev: 2, Len: 1477
+7:172  0:000    8. 9D2F1000: 'HPET', 'CB-01', Rev: 1, Len: 56
+7:172  0:000    9. 9D2F0000: 'LPIT', 'CB-01', Rev: 1, Len: 148
+7:172  0:000    10. 9D2EF000: 'APIC', 'CB-01', Rev: 3, Len: 188
+7:172  0:000    11. 9D2EE000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+7:172  0:000    12. 9D2ED000: 'WDAT', 'CB-01', Rev: 1, Len: 308
+7:172  0:000    13. 9D2C8000: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+7:172  0:000    14. 9D2C7000: 'SSDT', 'EInkApp', Rev: 1, Len: 724
+7:172  0:000    15. 9D2C4000: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+7:172  0:000    16. 9D2C3000: 'SSDT', 'Sata0Ide', Rev: 2, Len: 410
+7:172  0:000    17. 9D2C2000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 2889
+7:172  0:000    18. 9D2C1000: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+7:172  0:000    19. 9D2C0000: 'DBGP', 'CB-01', Rev: 1, Len: 52
+7:172  0:000    20. 9D2BF000: 'DBG2', 'CB-01', Rev: 0, Len: 84
+7:172  0:000    21. 9D2FC000: 'SSDT', 'xh_rvp10', Rev: 2, Len: 1592
+7:172  0:000    22. 9D2BD000: 'BOOT', 'CB-01', Rev: 1, Len: 40
+7:172  0:000    23. 9D2BC000: 'BATB', 'CB-01', Rev: 1, Len: 70
+7:172  0:000    24. 9D2BB000: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1401
+7:172  0:000    25. 9D2BA000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+7:172  0:000    26. 9D2B9000: 'MSDM', 'CB-01', Rev: 3, Len: 85
+7:172  0:000    27. 9D2B8000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+7:172  0:000    28. 9D2B6000: 'SSDT', 'NvOptTbl', Rev: 1, Len: 4301
+7:172  0:000    29. 9D2B5000: 'SSDT', 'SgPeg', Rev: 2, Len: 986
+7:172  0:000    30. 9D2B4000: 'ASF!', 'CB-01', Rev: 32, Len: 165
+7:172  0:000    31. 9D2B3000: 'FPDT', 'CB-01', Rev: 1, Len: 68
+7:172  0:000    32. 9D2B2000: 'BGRT', 'CB-01', Rev: 1, Len: 56
+7:172  0:000    33. 9D242000: 'UEFI', 'CB-01', Rev: 1, Len: 318
