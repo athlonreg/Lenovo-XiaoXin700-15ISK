@@ -36,7 +36,6 @@ CPU当前频率  2304 MHz
 二级缓存  1024 KB
 三级缓存  6144 KB
 CPU电压  0.900 V
-CPU序列号  BFEBFBFF000506E3
 数据宽度  64bit
 指令集  MMX,SSE,SSE2,SSE3,SSSE3,SSE4.1,SSE4.2,EM64T
 扩展版本  Ext.Family 0  Ext.Model 5
@@ -47,7 +46,6 @@ CPU序列号  BFEBFBFF000506E3
 制造商  联想
 主板型号  Lenovo XiaoXin 700-15ISK
 制造日期  2016/04/28
-主板序列号  R90L9TP4R9N0B6808008
 BIOS厂商  LENOVO
 BIOS版本  LENOVO - 0
 BIOS大小  0 Bytes
@@ -128,13 +126,11 @@ BIOS大小  0 Bytes
 
 网卡名称  Intel(R) Dual Band Wireless-AC 3165
 网卡厂商  英特尔
-Mac地址  68:07:15:4A:B0:9B
 
 网卡2详情
 
 网卡名称  Realtek PCIe GBE Family Controller
 网卡厂商  瑞昱
-Mac地址  54:EE:75:A9:5B:D2
 
 ----
 

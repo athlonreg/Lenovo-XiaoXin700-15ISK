@@ -10,21 +10,37 @@
 			<dict>
 				<key>AddPNLF</key>
 				<true/>
+				<key>FixShutdown</key>
+				<true/>
 			</dict>
 			<key>Patches</key>
 			<array>
 				<dict>
 					<key>Comment</key>
-					<string>change GFX0 to IGPU</string>
+					<string>change OSID to XSID (to avoid match against _OSI XOSI patch)</string>
 					<key>Disabled</key>
-					<false/>
+					<true/>
 					<key>Find</key>
 					<data>
-					R0ZYMA==
+					T1NJRA==
 					</data>
 					<key>Replace</key>
 					<data>
-					SUdQVQ==
+					WFNJRA==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change _OSI to XOSI</string>
+					<key>Disabled</key>
+					<true/>
+					<key>Find</key>
+					<data>
+					X09TSQ==
+					</data>
+					<key>Replace</key>
+					<data>
+					WE9TSQ==
 					</data>
 				</dict>
 			</array>
@@ -33,14 +49,18 @@
 		<array>
 			<dict>
 				<key>Signature</key>
-				<string>#MCFG</string>
+				<string>MCFG</string>
 			</dict>
 			<dict>
 				<key>Signature</key>
-				<string>DMAR</string>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>xh_rvp10</string>
 			</dict>
 		</array>
 		<key>FixHeaders</key>
+		<true/>
+		<key>HaltEnabler</key>
 		<true/>
 		<key>SSDT</key>
 		<dict>
@@ -67,13 +87,6 @@
 		<false/>
 		<key>Timeout</key>
 		<integer>5</integer>
-	</dict>
-	<key>BootGraphics</key>
-	<dict>
-		<key>EFILoginHiDPI</key>
-		<integer>0</integer>
-		<key>UIScale</key>
-		<integer>1</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -118,7 +131,7 @@
 			<false/>
 		</dict>
 		<key>Theme</key>
-		<string>Simple Theme Dark</string>
+		<string>SimpleThemeDark</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
