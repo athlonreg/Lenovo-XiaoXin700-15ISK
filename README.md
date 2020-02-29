@@ -151,34 +151,4 @@ BIOS大小  0 Bytes
 制造商  英特尔
 名称  英特尔(R) 无线 Bluetooth(R)
 
-----
-
-# Working 
-![2018041601](http://ovefvi4g3.bkt.clouddn.com/2018041601.png)
-
-![2018041602](http://ovefvi4g3.bkt.clouddn.com/2018041602.png)
-
-![2018041603](http://ovefvi4g3.bkt.clouddn.com/2018041603.png)
-
-![2018041604](http://ovefvi4g3.bkt.clouddn.com/2018041604.png)
-
-![2018041605](http://ovefvi4g3.bkt.clouddn.com/2018041605.png)
-
-![2018041606](http://ovefvi4g3.bkt.clouddn.com/2018041606.png)
-
-![2018041607](http://ovefvi4g3.bkt.clouddn.com/2018041607.png)
-
-![2018041608](http://ovefvi4g3.bkt.clouddn.com/2018041608.png)
-
-![2018041609](http://ovefvi4g3.bkt.clouddn.com/2018041609.png)
-
-![2018041610](http://ovefvi4g3.bkt.clouddn.com/2018041610.png)
-
-![2018041611](http://ovefvi4g3.bkt.clouddn.com/2018041611.png)
-
-![2018041612](http://ovefvi4g3.bkt.clouddn.com/2018041612.png)
-
-# EFI Boot Loader
-You can download the EFI Boot Loader by click [here](https://github.com/athlonreg/Lenovo-XiaoXin700-15ISK/releases)
-
 
